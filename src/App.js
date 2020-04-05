@@ -3,6 +3,9 @@ import { CardList } from "./components/card-list/card-list.component";
 import "./App.css";
 import { SearchBox } from "./components/search-box/search-box.component";
 
+// Original code are from:
+// https://github.com/ZhangMYihua/monsters-rolodex-complete
+
 // function App() {
 //   return (
 //     <div className="App">
