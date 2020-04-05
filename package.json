@@ -2,9 +2,9 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zhangmyihua.github.io/monsters-rolodex",
+  "homepage": "https://utsocials.github.io/udemy-react-course",
   "dependencies": {
-    "gh-pages": "2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
