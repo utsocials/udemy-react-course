@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemy-react-course/static/css/main.4e398d8d.chunk.css",
+    "main.js": "/udemy-react-course/static/js/main.1ee783f1.chunk.js",
+    "main.js.map": "/udemy-react-course/static/js/main.1ee783f1.chunk.js.map",
+    "runtime~main.js": "/udemy-react-course/static/js/runtime~main.805353c0.js",
+    "runtime~main.js.map": "/udemy-react-course/static/js/runtime~main.805353c0.js.map",
+    "static/js/2.2c32a551.chunk.js": "/udemy-react-course/static/js/2.2c32a551.chunk.js",
+    "static/js/2.2c32a551.chunk.js.map": "/udemy-react-course/static/js/2.2c32a551.chunk.js.map",
+    "index.html": "/udemy-react-course/index.html",
+    "precache-manifest.abb35e52ca1fcda714bf3c32a88ff54c.js": "/udemy-react-course/precache-manifest.abb35e52ca1fcda714bf3c32a88ff54c.js",
+    "service-worker.js": "/udemy-react-course/service-worker.js",
+    "static/css/main.4e398d8d.chunk.css.map": "/udemy-react-course/static/css/main.4e398d8d.chunk.css.map"
+  }
+}
