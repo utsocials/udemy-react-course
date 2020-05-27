@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/utsocials/udemy-react-course)](https://repl.it/github/utsocials/udemy-react-course)
+
 ## Monsters-rolodex-complete
 
 The completed version of our monsters rolodex project!
